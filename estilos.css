@@ -1,0 +1,18 @@
+body
+{
+	font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+}
+a
+{
+	float: left;
+	background: #CFA280;
+	padding: 100px 120px;
+	width: 145px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 20px;
+	color: #EADCD2;
+	margin-left: 200px;
+	margin-top: 50px;
+}
