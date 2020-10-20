@@ -1,13 +1,13 @@
 body
 {
-	font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+	font-family: 'Satisfy', cursive;
 }
 #proceso
 {
-	width: 550px;
+	width: 350px;
 	height: 400px;
 	padding: 50px 200px;
-	background: #88D38B;
+	background: #F7F1C1;
 	margin-left: 200px;
 }
 h2
@@ -42,7 +42,7 @@ input[type = button]
 	padding: 20px 50px;
 	font-size: 25px;
 	background-color: #F7F6E7;
-	border: 3px solid #DFDDC5;
+	border: 3px solid #777D71;
   	border-radius: 4px;
 }
 button
@@ -52,6 +52,6 @@ button
 	padding: 20px 50px;
 	font-size: 25px;
 	background-color: #F7F6E7;
-	border: 3px solid #DFDDC5;
+	border: 3px solid #BBD38B;
   	border-radius: 4px;
 }
